@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to CNPM !!! </h1>
+<h1> Demo việc sử dụng CICD bằng jenkins tự động deloy dự án khi github commit </h1>
 
