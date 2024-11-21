@@ -1,2 +1,2 @@
-<h1> Demo việc sử dụng CICD bằng jenkins tự động deloy dự án khi github </h1>
+<h1> DEmo khi commit tu updapte </h1>
 
