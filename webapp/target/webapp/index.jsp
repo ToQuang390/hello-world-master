@@ -42,7 +42,7 @@
         .btn {
             width: 100%;
             padding: 10px;
-            background-color: #29af18;
+            background-color: #e61d16;
             color: white;
             border: none;
             border-radius: 5px;
